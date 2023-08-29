@@ -1,0 +1,45 @@
+html{
+    border-top: none;
+    border-width: 25px;
+    border-color: rgb(250, 94, 224);
+    border-style: none solid solid solid;
+}
+h1{
+    padding: 10px;
+    background-color: greenyellow;
+
+}
+aside > ul > li{
+    list-style-type: none;
+    margin-left: -30px;
+}
+
+aside{
+    background-color: rgb(116, 255, 116);
+    float:left;
+    width: 250px;
+    margin-right:15px ;
+}
+article{
+    border: 1px solid #cccccc;
+    margin-left: 250px;
+    padding: 10px;
+    margin: 5px;
+    overflow: hidden;
+}
+footer{
+    background-color: greenyellow;
+    padding: 5px;
+    margin: 15px auto;
+}
+.tit1{
+    margin-bottom: -15px;
+    margin-left: 10px;
+}
+.tit2{
+    margin-bottom: -10px;
+}
+
+.tit3{
+    font-size: 20px;
+}
